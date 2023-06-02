@@ -1,2 +1,2 @@
 # demo
-printf
+prin
